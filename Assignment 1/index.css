@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(41, 38, 38);
+}
+
+#main {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  border: 50px solid;
+  border-top-color: orange;
+  border-left-color: greenyellow;
+  border-right-color: rgb(248, 221, 185);
+  border-bottom-color: rgb(101, 149, 194);
+  transform: rotate(45deg);
+  margin-top: 100px;
+}
+h2 {
+  width: "90%";
+  color: white;
+  text-align: center;
+  margin: auto;
+  transform: rotate(-45deg);
+  margin-top: 90px;
+}
+p {
+  width: "90%";
+  color: white;
+  text-align: center;
+  margin: auto;
+  transform: rotate(-45deg);
+  margin-top: -9px;
+  margin-left: 30px;
+}
